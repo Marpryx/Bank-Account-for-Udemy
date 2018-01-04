@@ -51,13 +51,24 @@ public class BankAccount {
         return phoneNumber;
     }
 
-    //The method allows the customer to deposit funds
+    /**
+     * The method allows the customer to deposit funds
+     * @param balance - initial balance of the account
+     * @param depositAmount - amount to deposit to the account
+     * @return new balance of the account
+     */
+
     public static double depositFunds(double balance, double depositAmount) {
 
         return balance += depositAmount;
     }
 
-    //The method allows the customer to withdaw funds
+    /**
+     * The method allows the customer to withdraw funds
+     * @param balance - initial balance of the account
+     * @param withdrawAmount - amount to withdraw from the account
+     * @return new balance of the account
+     */
 
     public static double withdrawFunds(double balance, double withdrawAmount) {
         if ((balance - withdrawAmount) < 0) {
