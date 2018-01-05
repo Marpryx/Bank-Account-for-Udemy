@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="946df6dc-c3b8-427d-9494-ca088b0c603c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/prykhodko/BankAccount.java" afterPath="$PROJECT_DIR$/src/com/prykhodko/BankAccount.java" />
       <change beforePath="$PROJECT_DIR$/src/com/prykhodko/Main.java" afterPath="$PROJECT_DIR$/src/com/prykhodko/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,22 +14,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/prykhodko/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-531">
-              <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
-              <folding />
+            <state relative-caret-position="106">
+              <caret line="57" column="41" lean-forward="false" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#3620#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VipCustomer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/prykhodko/VipCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#1355#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
+                <element signature="e#1178#1179#0" expanded="true" />
+                <element signature="e#1205#1206#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1277#1278#0" expanded="true" />
+                <element signature="e#1316#1317#0" expanded="true" />
+                <element signature="e#1351#1352#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/prykhodko/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="74" />
+            <state relative-caret-position="15">
+              <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
               <folding>
+                <element signature="e#0#3313#0" expanded="true" />
                 <element signature="e#1621#1622#0" expanded="true" />
                 <element signature="e#1671#1672#0" expanded="true" />
                 <element signature="e#1717#1718#0" expanded="true" />
@@ -77,6 +101,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/prykhodko/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/com/prykhodko/VipCustomer.java" />
         <option value="$PROJECT_DIR$/src/com/prykhodko/Main.java" />
       </list>
     </option>
@@ -203,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515015168755</updated>
-      <workItem from="1515015172085" duration="8994000" />
+      <workItem from="1515015172085" duration="13358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8994000" />
+    <option name="totallyTimeSpent" value="13358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1260" height="697" extended-state="0" />
@@ -276,16 +301,47 @@
           <caret line="794" column="10" lean-forward="false" selection-start-line="794" selection-start-column="10" selection-end-line="801" selection-end-column="9" />
           <folding>
             <element signature="e#0#39383#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prykhodko/VipCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#1355#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/prykhodko/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="57" column="41" lean-forward="false" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#3620#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/prykhodko/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="74" />
+        <state relative-caret-position="15">
+          <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
           <folding>
+            <element signature="e#0#3313#0" expanded="true" />
             <element signature="e#1621#1622#0" expanded="true" />
             <element signature="e#1671#1672#0" expanded="true" />
             <element signature="e#1717#1718#0" expanded="true" />
@@ -307,14 +363,6 @@
             <element signature="e#2382#2383#0" expanded="true" />
             <element signature="e#2416#2417#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/prykhodko/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-531">
-          <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>

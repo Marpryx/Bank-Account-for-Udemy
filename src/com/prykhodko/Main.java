@@ -51,6 +51,24 @@ public class Main {
         System.out.println("Customer name " + customerFirst.getCustomerName());
         System.out.println("Email" + customerFirst.getEmail());
         System.out.println("Phone number " + customerFirst.getPhoneNumber());
+        System.out.println(" ");
+
+
+       //to test the work of the VipCustomer class
+        System.out.println("Vip Customers");
+        VipCustomer customerOne = new VipCustomer();
+        System.out.println("The customerOne name is: " + customerOne.getName());
+
+        VipCustomer customerTwo = new VipCustomer("Lee", 333.0);
+        System.out.println("The customerTwo name is: " + customerTwo.getName());
+        System.out.println("The customerTwo credit limit is: " + customerTwo.getCreditLimit());
+
+        VipCustomer customerThree = new VipCustomer("Mila", 12000.0, "mila@gmail.com");
+        System.out.println("The customerThree name is: " + customerThree.getName());
+        System.out.println("The customerThree credit limit is: " + customerThree.getCreditLimit());
+        System.out.println("The customerThree email is: " + customerThree.getEmailAddress());
+
+
 
     }
 }
