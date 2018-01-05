@@ -1,8 +1,17 @@
+ //////////////////////////////////////////////////////////////////////////
+ // The Main program to test the Bank Account's features.                //
+ //                                                                      //
+ // The author: MarPryx                                                  //
+ //////////////////////////////////////////////////////////////////////////
+
 package com.prykhodko;
 
 public class Main {
 
     public static void main(String[] args) {
+
+         //new object of BankAccount initialized by using the constructor
+        //BankAccount customerFirst = new BankAccount(123, 0.00, "Bob Ivankin", "bobovich@gmail.com", "43788907483");
 
         //new object of BankAccount
         BankAccount customerFirst = new BankAccount();

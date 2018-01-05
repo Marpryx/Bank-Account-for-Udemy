@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////////////////////
+// The Bank Account is a simple program that demonstrates OOP in Java.  //
+//                                                                      //
+// There are some features:                                             //
+// - The customer may check the balance of the bank account;            //
+// - The customer may deposit the funds;                                //
+// - The customer may withdraw funds;                                   //
+//                                                                      //
+// The author: MarPryx                                                  //
+//////////////////////////////////////////////////////////////////////////
+
 package com.prykhodko;
 
 public class BankAccount {
@@ -7,6 +18,25 @@ public class BankAccount {
     private String customerName;
     private String email;
     private String phoneNumber;
+
+
+//    /**
+//     * Constructor to use instead of setters to initialize the fields
+//     * @param accountNumber
+//     * @param balance
+//     * @param customerName
+//     * @param email
+//     * @param phoneNumber
+//     */
+//    public BankAccount(int accountNumber, double balance, String customerName,
+//                       String email, String phoneNumber){
+//        this.accountNumber = accountNumber;
+//        this.balance = balance;
+//        this.customerName = customerName;
+//        this.email = email;
+//        this.phoneNumber = phoneNumber;
+//
+//    }
 
 
     //  Setters for the private fields
